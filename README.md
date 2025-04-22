@@ -4,7 +4,7 @@ Video exemplo feito com Manim, python.
 
 Segue aqui o objetivo do vídeo:
 
-> ![image](https://github.com/user-attachments/assets/8d5665bc-b3f6-42fc-8ab0-c4be20d572b0)
+> ![image](https://github.com/user-attachments/assets/747580aa-9b39-46a2-bcfa-00d8d811b799)
 >
 > Utilizar essa imagem, para gerar de forma criativa esse fluxo que acontece entre a arquitetura do computador, poderá ser feito animações, teatro, gameficação ou qualquer forma que mostre como esses dados trafegam e geram os resultados.
 
